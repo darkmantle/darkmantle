@@ -11,19 +11,10 @@ I'm a full-stack developer who has worked within the industry for over a decade 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working on [DarkCMS](https://github.com/darkcms)  
   
 
-- ❓ Ask me about anything related to React, Angular or NativeScript  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+- ❓ Ask me about anything related to React, Angular or NativeScript  >  
 
 <br/>  
 
