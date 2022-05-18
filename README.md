@@ -1,23 +1,11 @@
-## Hey 👋, I'm David Hopson  
-  
-
-
+## Hey 👋, I'm David Hopson
 
 ### Glad to see you here!  
 I'm a full-stack developer who has worked within the industry for over a decade across multiple tech stacks.  
-  
-
-<br/>  
-
 
 ## Rapidfire  
 - 🔭 I’m currently working on [DarkCMS](https://github.com/darkcms)  
-  
-
-- ❓ Ask me about anything related to React, Angular or NativeScript  >  
-
-<br/>  
-
+- ❓ Ask me about anything related to React, Angular or NativeScript
 
 ## Languages and Tools  
 <div align="center">  
@@ -50,9 +38,6 @@ I'm a full-stack developer who has worked within the industry for over a decade 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" />  
 </div>  
-
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
